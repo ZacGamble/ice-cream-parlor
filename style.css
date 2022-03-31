@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+}
+
+img{
+    object-fit: cover;
+}
+
+.size{
+    max-width: 300px;
+    max-height: 300px;
+}
